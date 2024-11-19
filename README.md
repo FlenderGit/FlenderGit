@@ -2,7 +2,8 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/3e/29/36/3e2936ee7dba7f2c925f4cfbea14d189.jpg" alt="By Maekawa_suu (https://danbooru.donmai.us/posts?tags=maekawa_suu)" width="320" /> 
+
+<img align="left" src="https://github.com/user-attachments/assets/a1c91e76-9e55-4411-b8a6-41505ff8ce67" alt="The Great Aoi Kagami" width="330" /> 
 
 ```csharp
 flendergit@github
