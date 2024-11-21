@@ -47,6 +47,3 @@ We’re in a time where innovation shapes our future, so **"Let's turn the chess
 
 ## Hobbies
 When I’m not coding, you’ll find me immersed in visual novels, unraveling mysteries in gripping books, or vibing to my favorite music. 🎵
-
-<img align="left" src="https://github.com/user-attachments/assets/a1c91e76-9e55-4411-b8a6-41505ff8ce67" alt="The Great Aoi Kagami" width="330" /> 
-
